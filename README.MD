@@ -5,7 +5,7 @@
 Grupo 3CV4 
 Ingenieria en sistemas computacionales
 
-###Fork 
+### Fork 
 
 https://github.com/Borshe10/Seismic-Data-Visualization-System
 
